@@ -1,0 +1,43 @@
+   margin: 0;
+    padding: 0;
+ }
+ 
+ P{
+     color: rgb(187, 14, 14);
+ }
+ 
+ #pagina{
+     width: 1200;
+     margin: 0px auto;
+ 
+ }
+ 
+ #cabecalho{
+     width: 1200px;
+     height: 60px;
+     background-color: rgb(223, 191, 191);
+ 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+  }
+ 
+ #links{
+         width: auto;
+         height: 50px;
+         background-color: rgb(170, 114, 51);
+ 
+ }
+     
+ #banner{
+         width: 80%;
+         height: 300px;
+         background-image: url(/HtmlCssAulas/MaterialDeAula/images/bolo.jpg) ;
+         background-size: cover;
+         background-position: center;
+         background-repeat: no-repeat ;
+         margin: 10px auto;
+         border-radius: 20px;
+    }
+ 
