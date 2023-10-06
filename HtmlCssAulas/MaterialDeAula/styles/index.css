@@ -47,7 +47,14 @@ P{
 #banner{
         width: 80%;
         height: 300px;
-        background-color: rgb(204, 37, 37);
+        /* chma a imagem para background */
+        background-image: url(images/patu.webp) ;
+        /* tamanho do background */
+        background-size: cover;
+        /* posiçao da imagem */
+        background-position: center;
+        /* quantas vezes o background será repetido! */
+        background-repeat: no-repeat ;
         margin: 10px auto;
         border-radius: 20px;
    }
