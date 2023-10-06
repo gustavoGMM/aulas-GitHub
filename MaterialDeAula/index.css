@@ -1,0 +1,9 @@
+P{
+    color: rgb(187, 128, 128);
+}
+
+#cabecalho{
+    width: 1200px;
+    height: 60px;
+    background-color: red;
+}
