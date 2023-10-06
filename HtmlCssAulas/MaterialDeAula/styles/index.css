@@ -48,7 +48,7 @@ P{
         width: 80%;
         height: 300px;
         /* chma a imagem para background */
-        background-image: url(images/patu.webp) ;
+        background-image: url(/HtmlCssAulas/MaterialDeAula/images/patu.webp) ;
         /* tamanho do background */
         background-size: cover;
         /* posiçao da imagem */
